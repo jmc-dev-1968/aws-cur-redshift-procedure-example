@@ -1,0 +1,1 @@
+# aws-cur-redshift-procedure-example
